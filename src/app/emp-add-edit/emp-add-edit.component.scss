@@ -1,0 +1,12 @@
+.content {
+  padding-top: 10px;
+  // This is SCSS Format tyle
+}
+.row {
+  display: flex;
+  gap: 10px;
+
+  mat-form-field {
+    width: 100%;
+  }
+}

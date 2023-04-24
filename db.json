@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Maurice",
+      "lastName": "Ruffin",
+      "email": "Tysons3x3@gmail.com",
+      "dob": "2023-04-12T04:00:00.000Z",
+      "gender": "",
+      "education": "College Degree",
+      "company": "Ge",
+      "experience": 3,
+      "package": 599999,
+      "id": 1
+    },
+    {
+      "firstName": "Maurice",
+      "lastName": "Ruffin",
+      "email": "Tysons3x3@gmail.com",
+      "dob": "2023-04-10T04:00:00.000Z",
+      "gender": "",
+      "education": "College Degree",
+      "company": "Gerne",
+      "experience": 3,
+      "package": 50000,
+      "id": 2
+    },
+    {
+      "firstName": "3432",
+      "lastName": "324324",
+      "email": "3243",
+      "dob": "2023-04-12T04:00:00.000Z",
+      "gender": "",
+      "education": "High School Deploma",
+      "company": "324",
+      "experience": "",
+      "package": "",
+      "id": 3
+    },
+    {
+      "firstName": "Mau",
+      "lastName": "Ruf",
+      "email": "YTy",
+      "dob": "2023-04-10T04:00:00.000Z",
+      "gender": "",
+      "education": "High School Deploma",
+      "company": "34345",
+      "experience": 32,
+      "package": 23232323,
+      "id": 4
+    },
+    {
+      "firstName": "Ramone ",
+      "lastName": "Wood",
+      "email": "Rm@gmail.com",
+      "dob": "1259-01-12T04:56:02.000Z",
+      "gender": "Male",
+      "education": "High School Deploma",
+      "company": "g",
+      "experience": 3,
+      "package": 60000,
+      "id": 5
+    }
+  ]
+}
